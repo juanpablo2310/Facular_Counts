@@ -4,6 +4,9 @@ Matlab base tool for storage latitude positions of Solar Faculae, data is gather
 
 ## Getting Started
 
+![Interface Image](interface.png)
+
+Program Interface, 
 
 
 ### Prerequisites
