@@ -8,7 +8,7 @@ Matlab base tool for storage latitude positions of Solar Faculae as a matrix in 
 
 Program Interface, from left to right :
 #### Reset buttons
-NAN all: puts all the inputs as NAN value\\
+NAN all: puts all the inputs as NAN value\\\
 Zero all : puts all the inputs as zero value
 
 #### Navegation Panel
