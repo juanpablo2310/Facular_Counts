@@ -15,9 +15,9 @@ Zero all : puts all the inputs as zero value
 In the middle of the interface, shows the date in which the data will be recorded, the date can be changed by directly introducing it or by tweaking it using the navigation buttons  (going from 1ts of january of 1883 to 31st of december of 1930)
 
 #### Administration buttons
-SaveTex : Save the matrix as a .txt file
-SaveMat : Save the matrix as a .m file
-LoadFile : Loads previous .m file
+SaveTex : Save the matrix as a .txt file \\\
+SaveMat : Save the matrix as a .m file \\\
+LoadFile : Loads previous .m file \\\
 Quit : Exit the user from the aplication generating a backup file automatically
 
 #### Counting Panel
