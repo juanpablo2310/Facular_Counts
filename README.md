@@ -1,69 +1,35 @@
 # Facular Counter
 
-Matlab base tool for storage latitude positions of Solar Faculae, data is gather inside a matrix as output in .m and .txt format
+Matlab base tool for storage latitude positions of Solar Faculae as a matrix in which the rows are the dates of the observed data and the columns are latitude intervals 10 grades long, data is gather inside a matrix as output in .m and .txt format
 
 ## Getting Started
 
 ![Interface Image](interface.png)
 
 Program Interface, from left to right :
-#### Reset botons 
+#### Reset buttons
 NAN all: puts all the inputs as NAN value
 Zero all : puts all the inputs as zero value
 
 #### Navegation Panel
+In the middle of the interface, shows the date in which the data will be recorded, the date can be changed by directly introducing it or by tweaking it using the navigation buttons  (going from 1ts of january of 1883 to 31st of december of 1930)
 
+#### Administration buttons
+SaveTex : Save the matrix as a .txt file
+SaveMat : Save the matrix as a .m file
+LoadFile : Loads previous .m file
+Quit : Exit the user from the aplication generating a backup file automatically
+
+#### Counting Panel
+Here 
 
 
 ### Prerequisites
 
 Facular_Counts.m needs 3 backup files (provided with the code) and Matlab's 2016 version or higher 
 
-```
-Give examples
-```
 
-### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
