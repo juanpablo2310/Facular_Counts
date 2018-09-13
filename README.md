@@ -21,7 +21,7 @@ LoadFile : Loads previous .m file \\\
 Quit : Exit the user from the aplication generating a backup file automatically
 
 #### Counting Panel
-Here 
+Here is recorded and display the counting of Solar faculae per latitude interval, the first panel display the number, in the case that no observation had taken place that day we left all entries as NANs, for adding (subtracting) faculaes to each interval right (left) click  with the mouse over the interval buttons, for restarting de count for an individual interval click the zero button, for become an individual entry a NAN object click the NAN button  
 
 
 ### Prerequisites
