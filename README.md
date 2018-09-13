@@ -6,7 +6,13 @@ Matlab base tool for storage latitude positions of Solar Faculae, data is gather
 
 ![Interface Image](interface.png)
 
-Program Interface, 
+Program Interface, from left to right :
+### Reset botons 
+NAN all: puts all the inputs as NAN value
+Zero all : puts all the inputs as zero value
+
+### Navegation Panel
+
 
 
 ### Prerequisites
