@@ -48,11 +48,6 @@ Facular_Counts.m needs 3 backup files (provided with the code) and Matlab's 2016
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the general public licence
 
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* et
 
